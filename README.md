@@ -32,4 +32,3 @@ A from-scratch implementation of core Machine Learning algorithms in Python, bui
 - Gradient descent & optimization
 - Model evaluation and bias-variance tradeoffs
 
-Building ML systems from first principles
